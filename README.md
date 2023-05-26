@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/Hnogared/Hnogared/blob/main/src/images/bsq_seq_cropped.gif" width="1000" height="200">
+<img src="https://github.com/Hnogared/Hnogared/blob/main/src/images/bsq_seq_cropped.gif" width="1000" height="400">
