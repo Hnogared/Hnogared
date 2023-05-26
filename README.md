@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hnogared/Hnogared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">👋 Hnogared - 42 Student 💻</h1>
 
 ![alt text][bsq_gif]
+<sup>A fun 42 project where you develop an algorithm to find the biggest square on a map of obstacles !</sup>
 
-[bsq_gif]: https://github.com/Hnogared/Hnogared/blob/main/src/images/bsq_seq.gif "Square finder GIF"
+***
+
+[bsq_gif]: https://github.com/Hnogared/Hnogared/blob/main/src/images/bsq_seq.gif "BSQ GIF"
