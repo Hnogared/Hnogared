@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hnogared - 42 Student 💻</h1>
 
-> ![bsq_gif](./src/bsq_seq.gif)
+> ![bsq gif][bsq_gif_src]
+
 <sup>A fun 42 project where you write a program to find the biggest square on a map of obstacles</sup>
+
+[bsq_gif_src]: ./src/bsq_seq.gif
