@@ -23,9 +23,34 @@ Finally, I like to have fun with Python for communicating with APIs or write dow
 ***
 
 ![bsq gif](./src/images/bsq_seq.gif)
-
 <sup>A fun 42 project where you write a program to find the biggest square on a map of obstacles</sup>
 
+***
+
+### Skills ###
+
+<p align="center">
+  <kbd>
+    <a href="https://skillicons.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode&theme=dark">
+        <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode&theme=light">
+      </picture>
+    </a>
+  </kbd>
+
+  <kbd>
+    <a href="https://skillicons.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript&theme=dark">
+        <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript&theme=light"/>
+      </picture>
+    </a>
+  </kbd>
+</p>
+
+
+<!-- ************************************************************************************************** -->
 
 [42 Github Link]: https://github.com/42School "42 School GitHub page"
 
