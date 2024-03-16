@@ -1,4 +1,4 @@
-<h1>
+<h1 style="background-color:#111111">
   <span>👋 Hnogared </span>
   <a href="https://github.com/42School" title="42 GitHub Page" target="_blank">
     <picture>
@@ -8,8 +8,19 @@
   </a>
 </h1>
 
-Welcome to my profile page !<br>
-I am currently studying informatics at [42 School][42 Github Link].<br>
+<a href="/top"></a>
+
+### Quick introductiom ###
+
+Welcome to my profile page, thank you for checking it out and I hope you are having a good day !
+
+I am currently studying at [42 School][42 Github Link], where I learn about low level programming, as well as object oriented programming, and the ground notions of clean code and optimization with the C and CPP languages.
+
+I am also learning scripting notions by experimenting with bash and vimscript in my free time.
+
+Finally, I like to have fun with Python for communicating with APIs or write down quick concepts.
+
+***
 
 ![bsq gif](./src/images/bsq_seq.gif)
 
