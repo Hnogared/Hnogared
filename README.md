@@ -16,9 +16,7 @@ Welcome to my profile page, thank you for checking it out and I hope you are hav
 
 I am currently studying at [42 School][42 Github Link], where I learn about low level programming, as well as object oriented programming, and the ground notions of clean code and optimization with the C and CPP languages.
 
-I am also learning scripting notions by experimenting with bash and vimscript in my free time.
-
-Finally, I like to have fun with Python for communicating with APIs or write down quick concepts.
+I am also learning scripting notions by experimenting with bash, Makefiles and vimscript in my free time, and I like to have fun with Python for communicating with APIs or write down quick concepts.
 
 ***
 
