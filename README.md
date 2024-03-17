@@ -37,11 +37,11 @@ Finally, I like to have fun with Python for communicating with APIs or write dow
     <td rowspan="2">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true">
-        <img alt="Hnogared top languages" valign="top" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+        <img alt="Hnogared top languages" valign="top" height=120 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
       </picture>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true">
-        <img valign="top" height=150 src="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+        <img valign="top" height=120 src="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
       </picture>
     </td>
   </tr>
