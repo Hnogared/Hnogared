@@ -22,33 +22,46 @@ Finally, I like to have fun with Python for communicating with APIs or write dow
 
 ***
 
-![bsq gif](./src/images/bsq_seq.gif)
-<sup>A fun 42 project where you write a program to find the biggest square on a map of obstacles</sup>
+### Skills ###
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode%2Cdocker&theme=dark">
+          <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode%2Cdocker&theme=light" align="center">
+        </picture>
+      </a>
+    </td>
+    <td rowspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true">
+        <img alt="Hnogared top languages" valign="top" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true">
+        <img valign="top" height=150 src="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+      </picture>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>  
+      <a href="https://skillicons.dev">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript&theme=dark">
+          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript%2C&theme=light"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ***
 
-### Skills ###
-
-<p align="center">
-  <kbd>
-    <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode&theme=dark">
-        <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cvim%2Cvscode&theme=light">
-      </picture>
-    </a>
-  </kbd>
-
-  <kbd>
-    <a href="https://skillicons.dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript&theme=dark">
-        <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cbash%2Cpython%2Cjavascript&theme=light"/>
-      </picture>
-    </a>
-  </kbd>
-</p>
-
+![bsq gif](./src/images/bsq_seq.gif)
+<sup>A fun 42 project where you write a program to find the biggest square on a map of obstacles</sup>
 
 <!-- ************************************************************************************************** -->
 
