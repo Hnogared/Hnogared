@@ -27,12 +27,12 @@ I am also learning scripting notions by experimenting with bash, Makefiles and v
     <td align="center">
       <a href="https://skillicons.dev">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cvim&theme=dark"/>
-          <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cvim&theme=light"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker&theme=dark"/>
+          <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker&theme=light"/>
         </picture>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cdocker&theme=dark"/>
-          <img alt="Used Tools" src="https://skillicons.dev/icons?i=vscode%2Cdocker&theme=light"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvim&theme=dark"/>
+          <img alt="Used Tools" src="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvim&theme=light"/>
         </picture>
       </a>
     </td>
@@ -52,11 +52,15 @@ I am also learning scripting notions by experimenting with bash, Makefiles and v
     <td align="center" valign="center">  
       <a href="https://skillicons.dev">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp&theme=dark"/>
-          <img src="https://skillicons.dev/icons?i=c%2Ccpp&theme=light"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccs%2Ccpp&theme=dark"/>
+          <img src="https://skillicons.dev/icons?i=c%2Ccs%2Ccpp&theme=light"/>
         </picture>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cpython%2Cjavascript&theme=dark"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Credux&theme=dark"/>
+          <img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Credux&theme=light"/>
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cpython&theme=dark"/>
           <img src="https://skillicons.dev/icons?i=bash%2Cpython%2Cjavascript&theme=light"/>
         </picture>
       </a>
