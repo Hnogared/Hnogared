@@ -1,38 +1,29 @@
-<h1 style="background-color:#111111">
-  <span>👋 Hnogared </span>
-  <a href="https://github.com/42School" title="42 GitHub Page" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Student-79C4FF?logo=42&logoColor=black">
-      <img alt="42 Badge" height=33 align="center" src="https://img.shields.io/badge/School-blue?logo=42&logoColor=white">
-    </picture>
-  </a>
-</h1>
+# 👋 Hnogared [![CGI Badge]](https://www.cgi.com/de/de)
 
 <a href="/top"></a>
 
-### Quick introductiom ###
+
+### Quick introduction
 
 Welcome to my profile page, thank you for checking it out and I hope you are having a good day !
 
-I am currently studying at [42 School][42 Github Link], where I learn about low level programming, as well as object oriented programming, and the ground notions of clean code and optimization with the C and CPP languages.
+I am currently Trainee for software development at [CGI].
 
-I am also learning scripting notions by experimenting with bash, Makefiles and vimscript in my free time, and I like to have fun with Python for communicating with APIs or write down quick concepts.
+There I am learning mainly frontend development with React/Vue/Typescript and backend programming with C#/.Net.
 
-***
+I also went to school [42], where I learned low-level programming with the languages C/C++ and the script language Bash.
 
-### Skills ###
+---
+
+### Skills
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://skillicons.dev">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker&theme=dark"/>
-          <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker&theme=light"/>
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvim&theme=dark"/>
-          <img alt="Used Tools" src="https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvim&theme=light"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker%2Cvscode%2Cvisualstudio%2Cvim&theme=dark&perline=4"/>
+          <img alt="Used Tools" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cazure%2Cdocker%2Cvscode%2Cvisualstudio%2Cvim&theme=light&perline=4"/>
         </picture>
       </a>
     </td>
@@ -52,16 +43,8 @@ I am also learning scripting notions by experimenting with bash, Makefiles and v
     <td align="center" valign="center">  
       <a href="https://skillicons.dev">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccs%2Ccpp&theme=dark"/>
-          <img src="https://skillicons.dev/icons?i=c%2Ccs%2Ccpp&theme=light"/>
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Credux&theme=dark"/>
-          <img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Credux&theme=light"/>
-        </picture>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cpython&theme=dark"/>
-          <img src="https://skillicons.dev/icons?i=bash%2Cpython%2Cjavascript&theme=light"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Ccs%2Cjavascript%2Ctypescript%2Creact%2Credux%2Cvue%2Cbash%2Cpython&theme=dark&perline=4"/>
+          <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Ccs%2Cjavascript%2Ctypescript%2Creact%2Credux%2Cvue%2Cbash%2Cpython&theme=light"/>
         </picture>
       </a>
     </td>
@@ -75,7 +58,7 @@ I am also learning scripting notions by experimenting with bash, Makefiles and v
 
 <!-- ************************************************************************************************** -->
 
-[42 Github Link]: https://github.com/42School "42 School GitHub page"
+[CGI Badge]: https://img.shields.io/badge/CGI%20Deutschland%20-Trainee-E31937 "CGI Deutschland Page"
+[CGI]: https://www.cgi.com/de/de "CGI Deutschland Homepage"
 
-[42 Logo Black]: https://github.com/Hnogared/Hnogared/blob/main/src/images/42-Logo_black.svg#gh-light-mode-only
-[42 Logo White]: https://github.com/Hnogared/Hnogared/blob/main/src/images/42-Logo_white.svg#gh-dark-mode-only
+[42]: https://42.fr/en/homepage/ "42 France Homepage"
