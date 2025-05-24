@@ -28,14 +28,16 @@ I also went to school [42], where I learned low-level programming with the langu
       </a>
     </td>
     <td rowspan="2" align="center" valign="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true"/>
-        <img alt="Hnogared top languages" height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true"/>
-        <img height=140 src="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
-      </picture>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true"/>
+          <img alt="Hnogared top languages" height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnogared&layout=compact&show_icons=true&title_color=fd9f02&icon_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=ffffff&bg_color=191921&hide_border=true"/>
+          <img height=140 src="https://github-readme-stats.vercel.app/api?username=Hnogared&title_color=fd9f02&text_color=000000&bg_color=eeeeee&hide_border=true"/>
+        </picture>
+      </a>
     </td>
   </tr>
   
